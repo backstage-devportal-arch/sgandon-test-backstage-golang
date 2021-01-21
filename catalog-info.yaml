@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: sgandon-test-backastage-golang-template
+  description: hahah
+  annotations: 
+    github.com/project-slug: backstage-devportal-arch/sgandon-test-backstage-golang
+    backstage.io/github-actions-id: backstage-devportal-arch/sgandon-test-backstage-golang
+spec:
+  type: service
+  lifecycle: experimental
+  owner: haha
